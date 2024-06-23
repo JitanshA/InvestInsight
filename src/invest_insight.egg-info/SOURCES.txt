@@ -1,8 +1,0 @@
-README.md
-setup.py
-src/invest_insight/__init__.py
-src/invest_insight.egg-info/PKG-INFO
-src/invest_insight.egg-info/SOURCES.txt
-src/invest_insight.egg-info/dependency_links.txt
-src/invest_insight.egg-info/entry_points.txt
-src/invest_insight.egg-info/top_level.txt
