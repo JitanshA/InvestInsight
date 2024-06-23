@@ -1,0 +1,864 @@
+{
+    "status": "ok",
+    "totalResults": 66,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Worldofmatthew.com"
+            },
+            "author": "Matthew Morgan",
+            "title": "The Irrevocable SSL Certificates of Cloudflare",
+            "description": "moved this website 'worldofmatthew.com' away from CloudFlare back in August 2020.That should have been the end of the relation with CloudFlare for my website.",
+            "url": "https://worldofmatthew.com/post/cloudflare-ssl/",
+            "urlToImage": null,
+            "publishedAt": "2024-05-22T05:59:09Z",
+            "content": "Posted in: Technology\r\nI moved this website \u201cworldofmatthew.com\u201d away from CloudFlare back in August 2020.\r\nThat should have been the end of the relation with CloudFlare for my website.\r\nUnfortunatel\u2026 [+3031 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Torrentfreak.com"
+            },
+            "author": "Ernesto Van der Sar",
+            "title": "Cloudflare IPFS \u2018Takedowns\u2019 Skyrocket, But Not For Long",
+            "description": "Cloudflare protects and facilitates access to millions of sites and services on the web. The company also offers an IPFS gateway, making it easier to access content on the censorship-resistant storage network. Takedown notices for this gateway have skyrockete\u2026",
+            "url": "https://torrentfreak.com/cloudflare-ipfs-takedowns-skyrocket-but-not-for-long-240617/",
+            "urlToImage": "https://torrentfreak.com/images/featstars.jpg",
+            "publishedAt": "2024-06-17T10:06:33Z",
+            "content": "Worldwide internet infrastructure service Cloudflare serves millions of customers and provides a variety of connectivity and privacy features to the general public.\r\nInternet users can take advantage\u2026 [+3884 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Torrentfreak.com"
+            },
+            "author": "Andy Maxwell",
+            "title": "Serie A Legal Action Claims Cloudflare Helps Pirates Evade Piracy Shield",
+            "description": "Billed as the most advanced anti-piracy system ever, Italy's Piracy Shield had no chance of living up to the hype. It transpires that just eight weeks after its launch early February, top tier football league Serie A filed a complaint at an Italian court accu\u2026",
+            "url": "https://torrentfreak.com/serie-a-legal-action-claims-cloudflare-helps-pirates-evade-piracy-shield-240528/",
+            "urlToImage": "https://torrentfreak.com/images/premier-clouds.png",
+            "publishedAt": "2024-05-28T07:09:05Z",
+            "content": "During the first week of April 2024, the CEO of top Italian football league Serie A was brimming with confidence. \r\nLuigi De Siervo said that Piracy Shield, Italy\u2019s brand new anti-piracy blocking sys\u2026 [+5296 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Torrentfreak.com"
+            },
+            "author": "Andy Maxwell",
+            "title": "Google, Cloudflare & Cisco Will Poison DNS to Stop Piracy Block Circumvention",
+            "description": "A French court has ordered Google, Cloudflare, and Cisco to poison their DNS resolvers to prevent circumvention of blocking measures, targeting around 117 pirate sports streaming domains. The move is another anti-piracy escalation for broadcaster Canal+, whic\u2026",
+            "url": "https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/",
+            "urlToImage": "https://torrentfreak.com/images/isp-servers.png",
+            "publishedAt": "2024-06-13T17:19:51Z",
+            "content": "In France, where laws were introduced with site-blocking and similar anti-piracy measures already baked in, entertainment giant Canal+ seems intent on taking full advantage.\r\nLike similar broadcaster\u2026 [+8782 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Robert DeFrancesco, Contributor, \n Robert DeFrancesco, Contributor\n https://www.forbes.com/sites/robertdefrancesco/",
+            "title": "Why Cloudflare Shares Have Tumbled 41% From The Recent 52-Week High",
+            "description": "Shares of Cloudflare are down 18.3% YTD versus a gain of 11.5% for the Nasdaq Composite even though the cloud platform provider continues to deliver solid results.",
+            "url": "https://www.forbes.com/sites/robertdefrancesco/2024/05/30/why-cloudflare-shares-have-tumbled-41-from-the-recent-52-week-high/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6658ff74823b5f71cf0d4737/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-05-30T23:30:11Z",
+            "content": "For 2024, Cloudflare forecasts revenue growth of 27%. (Photo Illustration by Omar Marques/SOPA ... [+] Images/LightRocket via Getty Images)\r\nSOPA Images/LightRocket via Getty Images\r\nCloudflare (NET)\u2026 [+5093 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "InfoQ.com"
+            },
+            "author": "Renato Losio",
+            "title": "Cloudflare AI Gateway Now Generally Available",
+            "description": "Cloudflare has recently announced that AI Gateway is now generally available. Described as a unified interface for managing and scaling generative AI workloads, AI Gateway allows developers to gain visibility and control over AI applications. By Renato Losio",
+            "url": "https://www.infoq.com/news/2024/06/cloudflare-ai-gateway/",
+            "urlToImage": "https://res.infoq.com/news/2024/06/cloudflare-ai-gateway/en/headerimage/generatedHeaderImage-1716621807847.jpg",
+            "publishedAt": "2024-06-02T05:20:00Z",
+            "content": "Cloudflare has recently announced that AI Gateway is now generally available. Described as a unified interface for managing and scaling generative AI workloads, AI Gateway allows developers to gain v\u2026 [+3127 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cloudflare.com"
+            },
+            "author": "Kenny Johnson, Michael Keane",
+            "title": "Cloudflare acquires BastionZero to extend Zero Trust access to IT infrastructure",
+            "description": "We\u2019re excited to announce that BastionZero, a Zero Trust infrastructure access platform, has joined Cloudflare. This acquisition extends our Zero Trust Network Access (ZTNA) flows with native access management for infrastructure like servers, Kubernetes clust\u2026",
+            "url": "https://blog.cloudflare.com/cloudflare-acquires-bastionzero",
+            "urlToImage": "http://blog.cloudflare.com/content/images/2024/05/BLOG-2427-1.png",
+            "publishedAt": "2024-05-30T12:12:02Z",
+            "content": "Were excited to announce that BastionZero, a Zero Trust infrastructure access platform, has joined Cloudflare. This acquisition extends our Zero Trust Network Access (ZTNA) flows with native access m\u2026 [+7994 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cloudflare.com"
+            },
+            "author": "Patrick S. Finn",
+            "title": "Patrick Finn: why I joined Cloudflare as VP Sales for the Americas",
+            "description": "Patrick S. Finn is joining Cloudflare as Vice President of Sales in the US, Canada, and Latin America",
+            "url": "https://blog.cloudflare.com/patrick-finn",
+            "urlToImage": "http://blog.cloudflare.com/content/images/2024/06/image1-16.png",
+            "publishedAt": "2024-06-20T13:00:44Z",
+            "content": "Im delighted to be joining Cloudflare as Vice President of Sales in the US, Canada, and Latin America.\r\nIve had the privilege of leading sales for some of the worlds most iconic tech companies, inclu\u2026 [+4732 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Speakerdeck.com"
+            },
+            "author": "AijiUejima",
+            "title": "Cloudflare Workers\u3067\u69cb\u7bc9\u3059\u308b\u975e\u540c\u671f\u30b8\u30e7\u30d6\u30b7\u30b9\u30c6\u30e0",
+            "description": "\u300cCloudflare Workers\u6d3b\u7528\u4e8b\u4f8b \u696d\u52d9\u5229\u7528\u306e\u6c7a\u3081\u624b\u3068\u305d\u306e\u52b9\u679c\u306b\u8feb\u308bLunch LT\u300dhttps://findy.connpass.com/event/318382/\r\n\u3067\u306e\u767a\u8868\u8cc7\u6599\u3067\u3059\u3002",
+            "url": "https://speakerdeck.com/aiji42/cloudflare-workersdegou-zhu-surufei-tong-qi-ziyobusisutemu",
+            "urlToImage": "https://files.speakerdeck.com/presentations/a1819d1d467f4e0294754632ba670047/slide_0.jpg?30587625",
+            "publishedAt": "2024-06-13T04:08:55Z",
+            "content": "Copyright \u00a9 2024 Speaker Deck, LLC.\r\nAll slide content and descriptions are owned by their creators."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vmblog.com"
+            },
+            "author": "David Marshall",
+            "title": "CrowdStrike and Cloudflare Announce Expanded Strategic Partnership to Secure Networks and Power the AI-Native SOC",
+            "description": "CrowdStrike and Cloudflare, Inc. announced an expansion of their strategic partnership, connecting their platforms to enhance security from the device to the network, accelerate Security Operations Center (SOC) transformation, and stop breaches at scale",
+            "url": "https://vmblog.com:443/archive/2024/05/31/crowdstrike-and-cloudflare-announce-expanded-strategic-partnership-to-secure-networks-and-power-the-ai-native-soc.aspx",
+            "urlToImage": null,
+            "publishedAt": "2024-05-31T18:02:00Z",
+            "content": "CrowdStrike and Cloudflare, Inc. announced an\r\n expansion of their strategic partnership, connecting their platforms to\r\n enhance security from the device to the network, accelerate Security \r\nOperat\u2026 [+3066 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "114.162.43"
+            },
+            "author": "David Marshall",
+            "title": "CrowdStrike and Cloudflare Announce Expanded Strategic Partnership to Secure Networks and Power the AI-Native SOC",
+            "description": "CrowdStrike and Cloudflare, Inc. announced an expansion of their strategic partnership, connecting their platforms to enhance security from the device to the network, accelerate Security Operations Center (SOC) transformation, and stop breaches at scale",
+            "url": "https://74.114.162.43:443/archive/2024/05/31/crowdstrike-and-cloudflare-announce-expanded-strategic-partnership-to-secure-networks-and-power-the-ai-native-soc.aspx",
+            "urlToImage": null,
+            "publishedAt": "2024-05-31T18:02:00Z",
+            "content": "CrowdStrike and Cloudflare, Inc. announced an\r\n expansion of their strategic partnership, connecting their platforms to\r\n enhance security from the device to the network, accelerate Security \r\nOperat\u2026 [+3066 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WebProNews"
+            },
+            "author": "Matt Milano",
+            "title": "Cloudflare Acquires BastionZero to Bolster Zero Trust Security",
+            "description": "Cloudflare has acquired BastionZero, giving customers increased Zero Trust security for their IT infrastructure.",
+            "url": "https://www.webpronews.com/cloudflare-acquires-bastionzero-to-bolster-zero-trust-security/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2024/05/Cloudflare-Bastion-Zero-Credit-Cloudflare.png",
+            "publishedAt": "2024-05-30T13:21:28Z",
+            "content": "Cloudflare has acquired BastionZero, giving customers increased Zero Trust security for their IT infrastructure.\r\nZero Trust security has emerged as one of the key principles of cloud security. Unlik\u2026 [+1686 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WebProNews"
+            },
+            "author": "Matt Milano",
+            "title": "Cloudflare Surprises Customer With $120,000 Shakedown",
+            "description": "Cloudflare is making headlines for surprising customers with a massive bill, and only giving them 24 hours to pay for an entire year.",
+            "url": "https://www.webpronews.com/cloudflare-surprises-customers-with-120000-shakedown/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2020/01/CloudFlare.jpg",
+            "publishedAt": "2024-06-04T18:12:20Z",
+            "content": "Cloudflare is making headlines for surprising customers with a massive bill, and only giving them 24 hours to pay for an entire year.\r\nSysOps engineer Robin Dev took to Substack to detail the issues \u2026 [+3879 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WebProNews"
+            },
+            "author": "Matt Milano",
+            "title": "Cloudflare: Go\u2019s PGO \u2018Saved Several Servers Worth of CPU Time\u2019",
+            "description": "Cloudflare is touting Go's Profile Guided Optimization (PGO), saying it saved the company significant CPU usage without changing any code.",
+            "url": "https://www.webpronews.com/cloudflare-golang-pgo-saved-several-servers-worth-of-cpu-time/",
+            "urlToImage": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2020/01/CloudFlare.jpg?fit=1100%2C615&ssl=1",
+            "publishedAt": "2024-05-22T12:30:00Z",
+            "content": "Cloudflare is touting Go\u2019s Profile Guided Optimization (PGO), saying it saved the company significant CPU usage without changing any code.\r\nPGO allows the Go compiler to optimize code based on system\u2026 [+1514 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Cloudflare (NYSE:NET) PT Lowered to $68.00",
+            "description": "Cloudflare (NYSE:NET \u2013 Get Free Report) had its price objective lowered by stock analysts at The Goldman Sachs Group from $77.00 to $68.00 in a research report issued to clients and investors on Tuesday, Benzinga reports. The firm currently has a \u201csell\u201d ratin\u2026",
+            "url": "https://www.etfdailynews.com/2024/06/06/cloudflare-nysenet-pt-lowered-to-68-00/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo-1200x675.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-06-06T06:34:43Z",
+            "content": "Cloudflare (NYSE:NET \u2013 Get Free Report) had its price objective lowered by stock analysts at The Goldman Sachs Group from $77.00 to $68.00 in a research report issued to clients and investors on Tues\u2026 [+5687 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Cloudflare (NET) \u2013 Analysts\u2019 Weekly Ratings Changes",
+            "description": "Several brokerages have updated their recommendations and price targets on shares of Cloudflare (NYSE: NET) in the last few weeks: 6/4/2024 \u2013 Cloudflare had its price target lowered by analysts at The Goldman Sachs Group, Inc. from $77.00 to $68.00. They now \u2026",
+            "url": "https://www.etfdailynews.com/2024/06/12/cloudflare-net-analysts-weekly-ratings-changes/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo-1200x675.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-06-12T10:50:43Z",
+            "content": "Several brokerages have updated their recommendations and price targets on shares of Cloudflare (NYSE: NET) in the last few weeks:\r\n<ul><li>6/4/2024 \u2013 Cloudflare had its price target lowered by analy\u2026 [+8417 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Comparing Cloudflare (NYSE:NET) & Destiny Media Technologies (OTCMKTS:DSNY)",
+            "description": "Destiny Media Technologies (OTCMKTS:DSNY \u2013 Get Free Report) and Cloudflare (NYSE:NET \u2013 Get Free Report) are both computer and technology companies, but which is the better investment? We will compare the two businesses based on the strength of their earnings,\u2026",
+            "url": "https://www.etfdailynews.com/2024/06/05/comparing-cloudflare-nysenet-destiny-media-technologies-otcmktsdsny/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo-1200x675.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-06-05T05:58:51Z",
+            "content": "Destiny Media Technologies (OTCMKTS:DSNY \u2013 Get Free Report) and Cloudflare (NYSE:NET \u2013 Get Free Report) are both computer and technology companies, but which is the better investment? We will compare\u2026 [+6441 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Aigen Investment Management LP Invests $210,000 in Cloudflare, Inc. (NYSE:NET)",
+            "description": "Aigen Investment Management LP purchased a new stake in Cloudflare, Inc. (NYSE:NET \u2013 Free Report) in the 4th quarter, according to the company in its most recent Form 13F filing with the Securities and Exchange Commission. The firm purchased 2,521 shares of t\u2026",
+            "url": "https://www.etfdailynews.com/2024/05/28/aigen-investment-management-lp-invests-210000-in-cloudflare-inc-nysenet/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo-1200x675.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-05-28T10:52:42Z",
+            "content": "Aigen Investment Management LP purchased a new stake in Cloudflare, Inc. (NYSE:NET \u2013 Free Report) in the 4th quarter, according to the company in its most recent Form 13F filing with the Securities a\u2026 [+5821 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketscreener.com"
+            },
+            "author": "Romain Fournier",
+            "title": "Analyst recommendations: Kinder Morgan, Marathon Petroleum, Autodesk, Cloudflare, Okta...",
+            "description": "(marketscreener.com) Every morning, find a selection of analysts' recommendations covering North America and the UK. The list only includes companies that have been the subject of a change of opinion or price target, or of a new coverage. It may be updated du\u2026",
+            "url": "https://www.marketscreener.com/news/latest/Analyst-recommendations-Kinder-Morgan-Marathon-Petroleum-Autodesk-Cloudflare-Okta--46897882/",
+            "urlToImage": "https://img.zonebourse.com/reuters/2020-10-21T201634Z_1_LYNXMPEG9K1VD_RTROPTP_3_KINDER-MORGAN-PIPELINE.JPG",
+            "publishedAt": "2024-06-04T09:24:38Z",
+            "content": "Every morning, find a selection of analysts' recommendations covering North America and the UK. The list only includes companies that have been the subject of a change of opinion or price target, or \u2026 [+2214 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Parallel Advisors LLC Cuts Position in Cloudflare, Inc. (NYSE:NET)",
+            "description": "Parallel Advisors LLC lessened its position in shares of Cloudflare, Inc. (NYSE:NET \u2013 Free Report) by 84.5% in the 4th quarter, according to its most recent 13F filing with the Securities and Exchange Commission (SEC). The institutional investor owned 975 sha\u2026",
+            "url": "https://www.etfdailynews.com/2024/06/06/parallel-advisors-llc-cuts-position-in-cloudflare-inc-nysenet/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo-1200x675.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-06-06T09:44:42Z",
+            "content": "Parallel Advisors LLC lessened its position in shares of Cloudflare, Inc. (NYSE:NET \u2013 Free Report) by 84.5% in the 4th quarter, according to its most recent 13F filing with the Securities and Exchang\u2026 [+5953 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Investing.com",
+            "title": "Cloudflare CEO sells over $11m in company stock",
+            "description": "Cloudflare CEO sells over $11m in company stock",
+            "url": "https://www.investing.com/news/company-news/cloudflare-ceo-sells-over-11m-in-company-stock-93CH-3484338",
+            "urlToImage": "https://i-invdn-com.investing.com/news/news_headline_rolled_69x52._800x533_L_1419494221.jpg",
+            "publishedAt": "2024-06-14T00:10:29Z",
+            "content": "Cloudflare, Inc. (NYSE:NET) CEO and Chair of the Board, Matthew Prince, has recently engaged in significant transactions involving company stock, according to the latest SEC filings. Prince sold a to\u2026 [+5434 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Cloudflare, Inc. (NYSE:NET) COO Sells $4,561,073.22 in Stock",
+            "description": "Cloudflare, Inc. (NYSE:NET \u2013 Get Free Report) COO Michelle Zatlyn sold 60,863 shares of the firm\u2019s stock in a transaction dated Monday, May 20th. The shares were sold at an average price of $74.94, for a total transaction of $4,561,073.22. Following the trans\u2026",
+            "url": "https://www.etfdailynews.com/2024/05/25/cloudflare-inc-nysenet-coo-sells-4561073-22-in-stock/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo-1200x675.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-05-25T08:22:44Z",
+            "content": "Cloudflare, Inc. (NYSE:NET \u2013 Get Free Report) COO Michelle Zatlyn sold 60,863 shares of the firm\u2019s stock in a transaction dated Monday, May 20th. The shares were sold at an average price of $74.94, f\u2026 [+5290 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Cloudflare, Inc. (NYSE:NET) COO Sells $949,705.60 in Stock",
+            "description": "Cloudflare, Inc. (NYSE:NET \u2013 Get Free Report) COO Michelle Zatlyn sold 12,820 shares of the stock in a transaction dated Wednesday, May 22nd. The stock was sold at an average price of $74.08, for a total value of $949,705.60. Following the sale, the chief ope\u2026",
+            "url": "https://www.etfdailynews.com/2024/05/25/cloudflare-inc-nysenet-coo-sells-949705-60-in-stock/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo-1200x675.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-05-25T09:18:44Z",
+            "content": "Cloudflare, Inc. (NYSE:NET \u2013 Get Free Report) COO Michelle Zatlyn sold 12,820 shares of the stock in a transaction dated Wednesday, May 22nd. The stock was sold at an average price of $74.08, for a t\u2026 [+5477 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Cloudflare (NYSE:NET) Receives \u201cNeutral\u201d Rating from Cantor Fitzgerald",
+            "description": "Cantor Fitzgerald reiterated their neutral rating on shares of Cloudflare (NYSE:NET \u2013 Free Report) in a research report report published on Friday, Benzinga reports. The firm currently has a $80.00 target price on the stock. NET has been the subject of a numb\u2026",
+            "url": "https://www.etfdailynews.com/2024/06/01/cloudflare-nysenet-receives-neutral-rating-from-cantor-fitzgerald/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-06-01T12:41:15Z",
+            "content": "Cantor Fitzgerald reiterated their neutral rating on shares of Cloudflare (NYSE:NET \u2013 Free Report) in a research report report published on Friday, Benzinga reports. The firm currently has a $80.00 t\u2026 [+5445 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Insider Selling: Cloudflare, Inc. (NYSE:NET) CFO Sells $2,151,272.42 in Stock",
+            "description": "Cloudflare, Inc. (NYSE:NET \u2013 Get Free Report) CFO Thomas J. Seifert sold 28,634 shares of the business\u2019s stock in a transaction that occurred on Monday, May 20th. The shares were sold at an average price of $75.13, for a total transaction of $2,151,272.42. Fo\u2026",
+            "url": "https://www.etfdailynews.com/2024/05/24/insider-selling-cloudflare-inc-nysenet-cfo-sells-2151272-42-in-stock/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo-1200x675.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-05-24T08:48:43Z",
+            "content": "Cloudflare, Inc. (NYSE:NET \u2013 Get Free Report) CFO Thomas J. Seifert sold 28,634 shares of the business\u2019s stock in a transaction that occurred on Monday, May 20th. The shares were sold at an average p\u2026 [+4608 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Vanguard Group Inc. Purchases 740,914 Shares of Cloudflare, Inc. (NYSE:NET)",
+            "description": "Vanguard Group Inc. boosted its position in shares of Cloudflare, Inc. (NYSE:NET \u2013 Free Report) by 2.7% in the fourth quarter, according to its most recent filing with the Securities & Exchange Commission. The fund owned 28,159,189 shares of the company\u2019s sto\u2026",
+            "url": "https://www.etfdailynews.com/2024/06/18/vanguard-group-inc-purchases-740914-shares-of-cloudflare-inc-nysenet/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo-1200x675.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-06-18T11:30:41Z",
+            "content": "Vanguard Group Inc. boosted its position in shares of Cloudflare, Inc. (NYSE:NET \u2013 Free Report) by 2.7% in the fourth quarter, according to its most recent filing with the Securities &amp; Exchange C\u2026 [+5990 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Brokerages Set Cloudflare, Inc. (NYSE:NET) PT at $91.09",
+            "description": "Cloudflare, Inc. (NYSE:NET \u2013 Get Free Report) has earned a consensus recommendation of \u201cHold\u201d from the twenty-three ratings firms that are currently covering the stock, Marketbeat Ratings reports. Four equities research analysts have rated the stock with a se\u2026",
+            "url": "https://www.etfdailynews.com/2024/06/06/brokerages-set-cloudflare-inc-nysenet-pt-at-91-09/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo-1200x675.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-06-06T07:14:41Z",
+            "content": "Cloudflare, Inc. (NYSE:NET \u2013 Get Free Report) has earned a consensus recommendation of \u201cHold\u201d from the twenty-three ratings firms that are currently covering the stock, Marketbeat Ratings reports. Fo\u2026 [+5866 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Investing.com",
+            "title": "Cloudflare CFO sells over $1 million in company stock",
+            "description": "Cloudflare CFO sells over $1 million in company stock",
+            "url": "https://www.investing.com/news/company-news/cloudflare-cfo-sells-over-1-million-in-company-stock-93CH-3474481",
+            "urlToImage": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+            "publishedAt": "2024-06-06T20:12:19Z",
+            "content": "Cloudflare, Inc. (NYSE:NET) has reported that its Chief Financial Officer, Thomas J. Seifert, has sold a total of $1,036,793 worth of Class A Common Stock on June 5, 2024. The transactions were execu\u2026 [+4572 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Cibc World Markets Corp Invests $645,000 in Cloudflare, Inc. (NYSE:NET)",
+            "description": "Cibc World Markets Corp purchased a new stake in shares of Cloudflare, Inc. (NYSE:NET \u2013 Free Report) in the fourth quarter, HoldingsChannel.com reports. The firm purchased 7,743 shares of the company\u2019s stock, valued at approximately $645,000. Other hedge fund\u2026",
+            "url": "https://www.etfdailynews.com/2024/06/11/cibc-world-markets-corp-invests-645000-in-cloudflare-inc-nysenet/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo-1200x675.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-06-11T09:44:47Z",
+            "content": "Cibc World Markets Corp purchased a new stake in shares of Cloudflare, Inc. (NYSE:NET \u2013 Free Report) in the fourth quarter, HoldingsChannel.com reports. The firm purchased 7,743 shares of the company\u2026 [+5711 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Cloudflare, Inc. (NYSE:NET) CFO Thomas J. Seifert Sells 15,000 Shares",
+            "description": "Cloudflare, Inc. (NYSE:NET \u2013 Get Free Report) CFO Thomas J. Seifert sold 15,000 shares of Cloudflare stock in a transaction on Wednesday, June 5th. The shares were sold at an average price of $69.12, for a total transaction of $1,036,800.00. Following the tra\u2026",
+            "url": "https://www.etfdailynews.com/2024/06/08/cloudflare-inc-nysenet-cfo-thomas-j-seifert-sells-15000-shares/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo-1200x675.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-06-08T09:26:41Z",
+            "content": "Cloudflare, Inc. (NYSE:NET \u2013 Get Free Report) CFO Thomas J. Seifert sold 15,000 shares of Cloudflare stock in a transaction on Wednesday, June 5th. The shares were sold at an average price of $69.12,\u2026 [+4784 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Alfreton Capital LLP Reduces Stake in Cloudflare, Inc. (NYSE:NET)",
+            "description": "Alfreton Capital LLP decreased its stake in shares of Cloudflare, Inc. (NYSE:NET \u2013 Free Report) by 13.0% in the 4th quarter, according to its most recent 13F filing with the SEC. The firm owned 800,000 shares of the company\u2019s stock after selling 120,000 share\u2026",
+            "url": "https://www.etfdailynews.com/2024/06/10/alfreton-capital-llp-reduces-stake-in-cloudflare-inc-nysenet/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo-1200x675.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-06-10T13:40:47Z",
+            "content": "Alfreton Capital LLP decreased its stake in shares of Cloudflare, Inc. (NYSE:NET \u2013 Free Report) by 13.0% in the 4th quarter, according to its most recent 13F filing with the SEC. The firm owned 800,0\u2026 [+6007 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Needham & Company LLC Reaffirms Buy Rating for Cloudflare (NYSE:NET)",
+            "description": "Needham & Company LLC reissued their buy rating on shares of Cloudflare (NYSE:NET \u2013 Free Report) in a research report released on Friday morning, Benzinga reports. They currently have a $135.00 price objective on the stock. Several other equities analysts als\u2026",
+            "url": "https://www.etfdailynews.com/2024/06/01/needham-company-llc-reaffirms-buy-rating-for-cloudflare-nysenet/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-06-01T10:50:41Z",
+            "content": "Needham &amp; Company LLC reissued their buy rating on shares of Cloudflare (NYSE:NET \u2013 Free Report) in a research report released on Friday morning, Benzinga reports. They currently have a $135.00 p\u2026 [+5876 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Cloudflare (NYSE:NET) Stock Price Down 3.5% on Insider Selling",
+            "description": "Cloudflare, Inc. (NYSE:NET \u2013 Get Free Report) shares were down 3.5% on Thursday after an insider sold shares in the company. The company traded as low as $72.30 and last traded at $72.55. Approximately 443,900 shares changed hands during mid-day trading, a de\u2026",
+            "url": "https://www.etfdailynews.com/2024/06/01/cloudflare-nysenet-stock-price-down-3-5-on-insider-selling/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo-1200x675.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-06-01T05:22:46Z",
+            "content": "Cloudflare, Inc. (NYSE:NET \u2013 Get Free Report) shares were down 3.5% on Thursday after an insider sold shares in the company. The company traded as low as $72.30 and last traded at $72.55. Approximate\u2026 [+5859 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Cloudflare, Inc. (NYSE:NET) CEO Matthew Prince Sells 52,384 Shares",
+            "description": "Cloudflare, Inc. (NYSE:NET \u2013 Get Free Report) CEO Matthew Prince sold 52,384 shares of the company\u2019s stock in a transaction dated Tuesday, June 11th. The stock was sold at an average price of $72.04, for a total transaction of $3,773,743.36. Following the com\u2026",
+            "url": "https://www.etfdailynews.com/2024/06/14/cloudflare-inc-nysenet-ceo-matthew-prince-sells-52384-shares/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo-1200x675.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-06-14T13:32:42Z",
+            "content": "Cloudflare, Inc. (NYSE:NET \u2013 Get Free Report) CEO Matthew Prince sold 52,384 shares of the company\u2019s stock in a transaction dated Tuesday, June 11th. The stock was sold at an average price of $72.04,\u2026 [+5399 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Cloudflare, Inc. (NYSE:NET) Director Sells $594,797.28 in Stock",
+            "description": "Cloudflare, Inc. (NYSE:NET \u2013 Get Free Report) Director Carl Ledbetter sold 7,986 shares of Cloudflare stock in a transaction dated Wednesday, June 12th. The shares were sold at an average price of $74.48, for a total transaction of $594,797.28. Following the \u2026",
+            "url": "https://www.etfdailynews.com/2024/06/15/cloudflare-inc-nysenet-director-sells-594797-28-in-stock/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo-1200x675.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-06-15T10:00:46Z",
+            "content": "Cloudflare, Inc. (NYSE:NET \u2013 Get Free Report) Director Carl Ledbetter sold 7,986 shares of Cloudflare stock in a transaction dated Wednesday, June 12th. The shares were sold at an average price of $7\u2026 [+5979 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Old Well Partners LLC Cuts Stake in Cloudflare, Inc. (NYSE:NET)",
+            "description": "Old Well Partners LLC decreased its stake in Cloudflare, Inc. (NYSE:NET \u2013 Free Report) by 35.5% in the 4th quarter, according to its most recent Form 13F filing with the Securities and Exchange Commission (SEC). The firm owned 15,600 shares of the company\u2019s s\u2026",
+            "url": "https://www.etfdailynews.com/2024/06/15/old-well-partners-llc-cuts-stake-in-cloudflare-inc-nysenet/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo-1200x675.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-06-15T10:00:46Z",
+            "content": "Old Well Partners LLC decreased its stake in Cloudflare, Inc. (NYSE:NET \u2013 Free Report) by 35.5% in the 4th quarter, according to its most recent Form 13F filing with the Securities and Exchange Commi\u2026 [+6048 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Paycom Software (NYSE:PAYC) versus Cloudflare (NYSE:NET) Head-To-Head Review",
+            "description": "Paycom Software (NYSE:PAYC \u2013 Get Free Report) and Cloudflare (NYSE:NET \u2013 Get Free Report) are both computer and technology companies, but which is the better business? We will compare the two companies based on the strength of their profitability, analyst rec\u2026",
+            "url": "https://www.etfdailynews.com/2024/05/28/paycom-software-nysepayc-versus-cloudflare-nysenet-head-to-head-review/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo-1200x675.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-05-28T06:10:46Z",
+            "content": "Paycom Software (NYSE:PAYC \u2013 Get Free Report) and Cloudflare (NYSE:NET \u2013 Get Free Report) are both computer and technology companies, but which is the better business? We will compare the two compani\u2026 [+7253 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Morgan Stanley Reaffirms Equal Weight Rating for Cloudflare (NYSE:NET)",
+            "description": "Morgan Stanley reiterated their equal weight rating on shares of Cloudflare (NYSE:NET \u2013 Free Report) in a research note released on Monday, Benzinga reports. The brokerage currently has a $92.00 target price on the stock. NET has been the topic of several oth\u2026",
+            "url": "https://www.etfdailynews.com/2024/06/18/morgan-stanley-reaffirms-equal-weight-rating-for-cloudflare-nysenet/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-06-18T07:22:43Z",
+            "content": "Morgan Stanley reiterated their equal weight rating on shares of Cloudflare (NYSE:NET \u2013 Free Report) in a research note released on Monday, Benzinga reports. The brokerage currently has a $92.00 targ\u2026 [+6110 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Investing.com",
+            "title": "Cloudflare director Carl Ledbetter sells shares worth over $786k",
+            "description": "Cloudflare director Carl Ledbetter sells shares worth over $786k",
+            "url": "https://www.investing.com/news/company-news/cloudflare-director-carl-ledbetter-sells-shares-worth-over-786k-93CH-3490898",
+            "urlToImage": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+            "publishedAt": "2024-06-20T20:28:11Z",
+            "content": "Cloudflare, Inc. (NYSE:NET) director Carl Ledbetter has sold a portion of his holdings in the company, according to the latest SEC filings. The transactions, which occurred on June 20, 2024, involved\u2026 [+4602 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Investing.com",
+            "title": "Cloudflare COO Zatlyn offloads over $2.9 million in company stock",
+            "description": "Cloudflare COO Zatlyn offloads over $2.9 million in company stock",
+            "url": "https://www.investing.com/news/company-news/cloudflare-coo-zatlyn-offloads-over-29-million-in-company-stock-93CH-3492693",
+            "urlToImage": "https://i-invdn-com.investing.com/news/news_six_pile_69x52._800x533_L_1419494215.jpg",
+            "publishedAt": "2024-06-21T23:14:11Z",
+            "content": "Cloudflare, Inc. (NYSE:NET) President and Chief Operating Officer Michelle Zatlyn has recently sold a substantial amount of company stock, transactions totaling over $2.9 million. The sales occurred \u2026 [+4728 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketscreener.com"
+            },
+            "author": null,
+            "title": "Cloudflare Acquires BastionZero to Add Zero Trust Infrastructure Access Controls for Cloudflare One, the World's Largest Secure Access Service Edge (SASE) Network",
+            "description": "(marketscreener.com) \nAcquisition adds secure remote infrastructure access to Cloudflare One, safeguarding customers\u2019 most critical systems\n\nhttps://www.marketscreener.com/quote/stock/CLOUDFLARE-INC-65956823/news/Cloudflare-Acquires-BastionZero-to-Add-Zero-Tr\u2026",
+            "url": "https://www.marketscreener.com/quote/stock/CLOUDFLARE-INC-65956823/news/Cloudflare-Acquires-BastionZero-to-Add-Zero-Trust-Infrastructure-Access-Controls-for-Cloudflare-One-46864153/",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2024-05-30T12:04:07Z",
+            "content": "Acquisition adds secure remote infrastructure access to Cloudflare One, safeguarding customers most critical systems\r\nCloudflare, Inc. (NYSE: NET), the leading connectivity cloud company, today annou\u2026 [+9313 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Investing.com",
+            "title": "Cloudflare director Carl Ledbetter sells over $2 million in company stock",
+            "description": "Cloudflare director Carl Ledbetter sells over $2 million in company stock",
+            "url": "https://www.investing.com/news/company-news/cloudflare-director-carl-ledbetter-sells-over-2-million-in-company-stock-93CH-3472659",
+            "urlToImage": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+            "publishedAt": "2024-06-05T21:16:16Z",
+            "content": "Cloudflare, Inc. (NYSE:NET) director Carl Ledbetter has recently sold a significant portion of his holdings in the company, according to a new SEC filing. On June 5, 2024, Ledbetter sold 30,270 share\u2026 [+4792 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketscreener.com"
+            },
+            "author": null,
+            "title": "CrowdStrike and Cloudflare Announce Expanded Strategic Partnership to Secure Networks and Power the AI-Native SOC",
+            "description": "(marketscreener.com) \nNew alliance combines best-of-breed platforms, accelerating partners\u2019 ability to drive vendor consolidation by securing the network and stopping breaches across device endpoints, cloud, identity, data, and applications\n\nhttps://www.marke\u2026",
+            "url": "https://www.marketscreener.com/quote/stock/CLOUDFLARE-INC-65956823/news/CrowdStrike-and-Cloudflare-Announce-Expanded-Strategic-Partnership-to-Secure-Networks-and-Power-the-46864874/",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2024-05-30T13:03:05Z",
+            "content": "New alliance combines best-of-breed platforms, accelerating partners ability to drive vendor consolidation by securing the network and stopping breaches across device endpoints, cloud, identity, data\u2026 [+9719 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Nomura Asset Management Co. Ltd. Purchases 4,300 Shares of Cloudflare, Inc. (NYSE:NET)",
+            "description": "Nomura Asset Management Co. Ltd. increased its position in shares of Cloudflare, Inc. (NYSE:NET \u2013 Free Report) by 6.6% in the 4th quarter, according to the company in its most recent 13F filing with the Securities and Exchange Commission. The fund owned 69,76\u2026",
+            "url": "https://www.etfdailynews.com/2024/05/30/nomura-asset-management-co-ltd-purchases-4300-shares-of-cloudflare-inc-nysenet/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo-1200x675.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-05-30T11:52:45Z",
+            "content": "Nomura Asset Management Co. Ltd. increased its position in shares of Cloudflare, Inc. (NYSE:NET \u2013 Free Report) by 6.6% in the 4th quarter, according to the company in its most recent 13F filing with \u2026 [+6347 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Cloudflare, Inc. (NYSE:NET) Director Carl Ledbetter Sells 7,994 Shares of Stock",
+            "description": "Cloudflare, Inc. (NYSE:NET \u2013 Get Free Report) Director Carl Ledbetter sold 7,994 shares of the firm\u2019s stock in a transaction on Wednesday, May 29th. The shares were sold at an average price of $72.79, for a total transaction of $581,883.26. Following the comp\u2026",
+            "url": "https://www.etfdailynews.com/2024/05/30/cloudflare-inc-nysenet-director-carl-ledbetter-sells-7994-shares-of-stock/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo-1200x675.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-05-30T13:14:42Z",
+            "content": "Cloudflare, Inc. (NYSE:NET \u2013 Get Free Report) Director Carl Ledbetter sold 7,994 shares of the firm\u2019s stock in a transaction on Wednesday, May 29th. The shares were sold at an average price of $72.79\u2026 [+6503 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Cloudflare (NYSE:NET) Given New $90.00 Price Target at Royal Bank of Canada",
+            "description": "Cloudflare (NYSE:NET \u2013 Free Report) had its target price trimmed by Royal Bank of Canada from $108.00 to $90.00 in a report issued on Friday morning, Benzinga reports. The firm currently has an outperform rating on the stock. Several other brokerages have als\u2026",
+            "url": "https://www.etfdailynews.com/2024/06/01/cloudflare-nysenet-given-new-90-00-price-target-at-royal-bank-of-canada/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-06-01T11:26:47Z",
+            "content": "Cloudflare (NYSE:NET \u2013 Free Report) had its target price trimmed by Royal Bank of Canada from $108.00 to $90.00 in a report issued on Friday morning, Benzinga reports. The firm currently has an outpe\u2026 [+5653 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "torrentfreak.com",
+            "title": "Serie A Legal Action Claims Cloudflare Helps Pirates Evade Piracy Shield * TorrentFreak",
+            "description": "Billed as the most advanced anti-piracy system ever, Italy's Piracy Shield had no chance of living up to the hype. It transpires that just eight weeks after its launch early February, top tier football league Serie A filed a complaint at an Italian court accu\u2026",
+            "url": "https://biztoc.com/x/1662778464b339ad",
+            "urlToImage": "https://c.biztoc.com/p/1662778464b339ad/s.webp",
+            "publishedAt": "2024-05-28T07:22:04Z",
+            "content": "Billed as the most advanced anti-piracy system ever, Italy's Piracy Shield had no chance of living up to the hype. It transpires that just eight weeks after its launch early February, top tier footba\u2026 [+305 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Dimensional Fund Advisors LP Has $23.78 Million Stake in Cloudflare, Inc. (NYSE:NET)",
+            "description": "Dimensional Fund Advisors LP raised its stake in shares of Cloudflare, Inc. (NYSE:NET \u2013 Free Report) by 8.1% in the fourth quarter, HoldingsChannel reports. The institutional investor owned 285,604 shares of the company\u2019s stock after purchasing an additional \u2026",
+            "url": "https://www.etfdailynews.com/2024/06/04/dimensional-fund-advisors-lp-has-23-78-million-stake-in-cloudflare-inc-nysenet/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo-1200x675.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-06-04T09:08:59Z",
+            "content": "Dimensional Fund Advisors LP raised its stake in shares of Cloudflare, Inc. (NYSE:NET \u2013 Free Report) by 8.1% in the fourth quarter, HoldingsChannel reports. The institutional investor owned 285,604 s\u2026 [+6286 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Intech Investment Management LLC Sells 8,047 Shares of Cloudflare, Inc. (NYSE:NET)",
+            "description": "Intech Investment Management LLC reduced its position in shares of Cloudflare, Inc. (NYSE:NET \u2013 Free Report) by 15.6% in the fourth quarter, according to the company in its most recent disclosure with the Securities and Exchange Commission. The firm owned 43,\u2026",
+            "url": "https://www.etfdailynews.com/2024/05/27/intech-investment-management-llc-sells-8047-shares-of-cloudflare-inc-nysenet/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo-1200x675.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-05-27T14:58:41Z",
+            "content": "Intech Investment Management LLC reduced its position in shares of Cloudflare, Inc. (NYSE:NET \u2013 Free Report) by 15.6% in the fourth quarter, according to the company in its most recent disclosure wit\u2026 [+5942 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "SW Investment Management LLC Sells 100,000 Shares of Cloudflare, Inc. (NYSE:NET)",
+            "description": "SW Investment Management LLC trimmed its holdings in shares of Cloudflare, Inc. (NYSE:NET \u2013 Free Report) by 18.2% in the 4th quarter, HoldingsChannel.com reports. The fund owned 450,000 shares of the company\u2019s stock after selling 100,000 shares during the qua\u2026",
+            "url": "https://www.etfdailynews.com/2024/06/12/sw-investment-management-llc-sells-100000-shares-of-cloudflare-inc-nysenet/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo-1200x675.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-06-12T11:36:48Z",
+            "content": "SW Investment Management LLC trimmed its holdings in shares of Cloudflare, Inc. (NYSE:NET \u2013 Free Report) by 18.2% in the 4th quarter, HoldingsChannel.com reports. The fund owned 450,000 shares of the\u2026 [+6187 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Cloudflare, Inc. (NYSE:NET) Director Katrin Suder Sells 574 Shares of Stock",
+            "description": "Cloudflare, Inc. (NYSE:NET \u2013 Get Free Report) Director Katrin Suder sold 574 shares of the business\u2019s stock in a transaction dated Tuesday, June 4th. The stock was sold at an average price of $67.11, for a total transaction of $38,521.14. Following the comple\u2026",
+            "url": "https://www.etfdailynews.com/2024/06/06/cloudflare-inc-nysenet-director-katrin-suder-sells-574-shares-of-stock/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo-1200x675.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-06-06T12:34:42Z",
+            "content": "Cloudflare, Inc. (NYSE:NET \u2013 Get Free Report) Director Katrin Suder sold 574 shares of the business\u2019s stock in a transaction dated Tuesday, June 4th. The stock was sold at an average price of $67.11,\u2026 [+4784 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Berkshire Capital Holdings Inc. Grows Stock Holdings in Cloudflare, Inc. (NYSE:NET)",
+            "description": "Berkshire Capital Holdings Inc. raised its stake in shares of Cloudflare, Inc. (NYSE:NET \u2013 Free Report) by 10.8% in the 4th quarter, according to its most recent disclosure with the SEC. The firm owned 159,750 shares of the company\u2019s stock after purchasing an\u2026",
+            "url": "https://www.etfdailynews.com/2024/06/13/berkshire-capital-holdings-inc-grows-stock-holdings-in-cloudflare-inc-nysenet/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo-1200x675.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-06-13T12:46:49Z",
+            "content": "Berkshire Capital Holdings Inc. raised its stake in shares of Cloudflare, Inc. (NYSE:NET \u2013 Free Report) by 10.8% in the 4th quarter, according to its most recent disclosure with the SEC. The firm own\u2026 [+6526 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Insider Selling: Cloudflare, Inc. (NYSE:NET) CEO Sells 52,384 Shares of Stock",
+            "description": "Cloudflare, Inc. (NYSE:NET \u2013 Get Free Report) CEO Matthew Prince sold 52,384 shares of the business\u2019s stock in a transaction dated Thursday, June 13th. The shares were sold at an average price of $74.46, for a total transaction of $3,900,512.64. Following the\u2026",
+            "url": "https://www.etfdailynews.com/2024/06/15/insider-selling-cloudflare-inc-nysenet-ceo-sells-52384-shares-of-stock/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo-1200x675.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-06-15T08:22:46Z",
+            "content": "Cloudflare, Inc. (NYSE:NET \u2013 Get Free Report) CEO Matthew Prince sold 52,384 shares of the business\u2019s stock in a transaction dated Thursday, June 13th. The shares were sold at an average price of $74\u2026 [+5829 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Chesapeake Capital Corp IL Makes New $529,000 Investment in Cloudflare, Inc. (NYSE:NET)",
+            "description": "Chesapeake Capital Corp IL acquired a new position in Cloudflare, Inc. (NYSE:NET \u2013 Free Report) in the 4th quarter, according to the company in its most recent filing with the Securities and Exchange Commission (SEC). The institutional investor acquired 6,350\u2026",
+            "url": "https://www.etfdailynews.com/2024/05/27/chesapeake-capital-corp-il-makes-new-529000-investment-in-cloudflare-inc-nysenet/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo-1200x675.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-05-27T15:56:41Z",
+            "content": "Chesapeake Capital Corp IL acquired a new position in Cloudflare, Inc. (NYSE:NET \u2013 Free Report) in the 4th quarter, according to the company in its most recent filing with the Securities and Exchange\u2026 [+6272 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Los Angeles Capital Management LLC Boosts Position in Cloudflare, Inc. (NYSE:NET)",
+            "description": "Los Angeles Capital Management LLC raised its stake in Cloudflare, Inc. (NYSE:NET \u2013 Free Report) by 140.8% in the 1st quarter, according to the company in its most recent filing with the Securities and Exchange Commission (SEC). The firm owned 453,651 shares \u2026",
+            "url": "https://www.etfdailynews.com/2024/06/20/los-angeles-capital-management-llc-boosts-position-in-cloudflare-inc-nysenet/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/cloudflare-inc-logo-1200x675.png?v=20231227090241&w=240&h=240&zc=2",
+            "publishedAt": "2024-06-20T11:36:52Z",
+            "content": "Los Angeles Capital Management LLC raised its stake in Cloudflare, Inc. (NYSE:NET \u2013 Free Report) by 140.8% in the 1st quarter, according to the company in its most recent filing with the Securities a\u2026 [+6013 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Internet"
+            },
+            "author": "Newsroom",
+            "title": "New Tricks in the Phishing Playbook: Cloudflare Workers, HTML Smuggling, GenAI",
+            "description": "Cybersecurity researchers are alerting of phishing campaigns that abuse\u00a0Cloudflare Workers\u00a0to serve phishing sites that are used to harvest users' credentials associated with Microsoft, Gmail, Yahoo!, and cPanel Webmail.\nThe attack\u00a0method,\u00a0called transparent \u2026",
+            "url": "https://thehackernews.com/2024/05/new-tricks-in-phishing-playbook.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3ef101SowhJwU352YPVl3iAtc9xMdIuCrJhAUmumTKJvxhVrabFgVgzPDShoBhSudHO6sc0CPmEEhhyphenhyphenTjBHR6dOEB3gfolK1OwEtIYXDlVhWns4K3Yf-f3NiW4Ayt9cGEFFSkjVEY5BF6rrkTxjN769Mx6AnUFUcSpJ5c_TFb-4xWWjkkQFGC0nzUWPW4/s728-rw-e365/phishing.png",
+            "publishedAt": "2024-05-27T09:02:00Z",
+            "content": "Cybersecurity researchers are alerting of phishing campaigns that abuse Cloudflare Workers to serve phishing sites that are used to harvest users' credentials associated with Microsoft, Gmail, Yahoo!\u2026 [+6410 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "InfoQ.com"
+            },
+            "author": "Matt Saunders",
+            "title": "Combatting Alert Fatigue at Cloudflare",
+            "description": "In a detailed blog post, Monika Singh at Cloudflare explores the stressful environment on-call personnel face. On-call staff frequently deal with numerous alerts, leading to alert fatigue\u2014a state of exhaustion caused by responding to non-prioritised or unclea\u2026",
+            "url": "https://www.infoq.com/news/2024/06/alert-fatigue-cloudflare/",
+            "urlToImage": "https://res.infoq.com/news/2024/06/alert-fatigue-cloudflare/en/headerimage/generatedHeaderImage-1717627080954.jpg",
+            "publishedAt": "2024-06-06T10:00:00Z",
+            "content": "In a detailed blog post, Monika Singh at Cloudflare explores the stressful environment on-call personnel face, often illustrated by the 'this is fine' meme. On-call staff frequently deal with numerou\u2026 [+4575 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "tevslin@gmail.com",
+            "title": "cloudflare-speedtest added to PyPI",
+            "description": "\"Python CLI and python class for retrieving user's realtime performance statistics\"",
+            "url": "https://pypi.org/project/cloudflare-speedtest/",
+            "urlToImage": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+            "publishedAt": "2024-06-18T23:01:37Z",
+            "content": "Python CLI and python class for retrieving user's realtime performance statistics.\r\nPurpose\r\nRetrieve near-term performance data about the service provided to a user by an ISP. The data includes up a\u2026 [+6360 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "vincent@saashup.com",
+            "title": "netbox-cloudflare-plugin added to PyPI",
+            "description": "Manage Cloudflare with Netbox & style.",
+            "url": "https://pypi.org/project/netbox-cloudflare-plugin/",
+            "urlToImage": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+            "publishedAt": "2024-06-21T07:50:03Z",
+            "content": "Netbox Cloudflare Plugin\r\nManage Cloudflare with Netbox &amp; style.\r\nInstallation\r\nYou can follow the official plugins installation\r\ninstructions.\r\nIf needed, source your Netbox's virtual environmen\u2026 [+2614 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "French Court Orders Google, Cloudflare, Cisco To Poison DNS To Stop Piracy",
+            "description": "An anonymous reader quotes a report from TorrentFreak: A French court has ordered Google, Cloudflare, and Cisco to poison their DNS resolvers to prevent circumvention of blocking measures, targeting around 117 pirate sports streaming domains. The move is anot\u2026",
+            "url": "https://yro.slashdot.org/story/24/06/17/1930219/french-court-orders-google-cloudflare-cisco-to-poison-dns-to-stop-piracy",
+            "urlToImage": "https://a.fsdn.com/sd/topics/topicgoogle_fb.gif",
+            "publishedAt": "2024-06-17T22:00:00Z",
+            "content": "A French court has ordered Google, Cloudflare, and Cisco to poison their DNS resolvers to prevent circumvention of blocking measures, targeting around 117 pirate sports streaming domains. The move is\u2026 [+2581 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Stackoverflow.com"
+            },
+            "author": "Stack Overflow",
+            "title": "Django with Nginx and Cloudflare: \"400 Bad Request\" on Redirect",
+            "description": "I'm integrating an Iranian Stripe-like bank gateway provider with my Django application. When a user completes a successful purchase, the gateway redirects them back to our website using a predefined redirect URL to finish the deposit process.\nHowever, some u\u2026",
+            "url": "https://stackoverflow.com/questions/78516664/django-with-nginx-and-cloudflare-400-bad-request-on-redirect",
+            "urlToImage": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+            "publishedAt": "2024-05-22T10:05:50Z",
+            "content": "I'm integrating an Iranian Stripe-like bank gateway provider with my Django application. When a user completes a successful purchase, the gateway redirects them back to our website using a predefined\u2026 [+1386 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "couchslug",
+            "title": "Google, Cloudflare & Cisco Will Poison DNS to Stop Piracy Block Circumventio",
+            "description": "A French court has ordered Google, Cloudflare, and Cisco to poison their DNS resolvers to prevent circumvention of blocking measures, targeting around 117 pirate sports streaming domains. The move is another anti-piracy escalation for broadcaster Canal+, whic\u2026",
+            "url": "https://slashdot.org/submission/17322653/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumventio",
+            "urlToImage": null,
+            "publishedAt": "2024-06-17T20:38:59Z",
+            "content": "Suburbia is where the developer bulldozes out the trees, then names\r\nthe streets after them.\r\n-- Bill Vaughn"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "Anonymous Coward",
+            "title": "French Court Orders Google, Cloudflare, Cisco To Poison DNS To Stop Piracy",
+            "description": "A French court has ordered Google, Cloudflare, and Cisco to poison their DNS resolvers to prevent circumvention of blocking measures, targeting around 117 pirate sports streaming domains. The move is another anti-piracy escalation for broadcaster Canal+, whic\u2026",
+            "url": "https://slashdot.org/submission/17322649/french-court-orders-google-cloudflare-cisco-to-poison-dns-to-stop-piracy",
+            "urlToImage": null,
+            "publishedAt": "2024-06-17T19:28:53Z",
+            "content": "A French court has ordered Google, Cloudflare, and Cisco to poison their DNS resolvers to prevent circumvention of blocking measures, targeting around 117 pirate sports streaming domains. The move is\u2026 [+2579 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Njoguamos.me.ke"
+            },
+            "author": "Njogu Amos",
+            "title": "How to use Cloudflare R2 with Laravel file storage",
+            "description": "Learn how to use Cloudflare R2's S3-compatible service with Laravel's file storage system.",
+            "url": "https://njoguamos.me.ke/posts/how-to-use-cloudflare-r2-with-laravel-file-storage?utm_source=laravelnews&amp;utm_medium=link&amp;utm_campaign=laravelnews",
+            "urlToImage": "https://assets.njoguamos.me.ke/cdn-cgi/image/f=webp,w=1200,h=630,fit=cover/ogs/how-to-use-cloudflare-r2-with-laravel-file-storage.jpg",
+            "publishedAt": "2024-05-28T12:00:00Z",
+            "content": "Laravel offers a powerful filesystem abstraction using Flysystem, a file storage library for PHP by Frank de Jonge. Flysystem provides one interface to interact with many filesystems, including Amazo\u2026 [+5351 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Substack.com"
+            },
+            "author": "nolverostae",
+            "title": "Cloudflare took down our site after trying to force us to pay $120k within 24h",
+            "description": "TL;DR: We've been on the Cloudflare Business plan ($250/month) for years. They suddenly contacted us and asked us to either pay them $120k up front for one year of Enterprise within 24 hours or they would take down all of our domains. While this escalated up \u2026",
+            "url": "https://robindev.substack.com/p/cloudflare-took-down-our-website",
+            "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F74bcf245-b6da-4e0d-93b5-eedf42e7ff51_897x407.png",
+            "publishedAt": "2024-05-26T12:57:10Z",
+            "content": "TL;DR:\r\nWe've been on the Cloudflare Business plan ($250/month) for years. They suddenly contacted us and asked us to either pay them $120k up front for one year of Enterprise within 24 hours or they\u2026 [+10753 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Madshrimps.be"
+            },
+            "author": "Stefan Mileschin",
+            "title": "French court orders DNS blocks on Google, Cloudflare, and Cisco",
+            "description": "A French court has mandated Google, Cloudflare, and Cisco to modify their DNS resolvers to block about 117 pirate sports streaming domains, as part of Canal+'s anti-piracy measures. This includes deindexing the sites from search...",
+            "url": "http://www.madshrimps.be/news/item/230674",
+            "urlToImage": null,
+            "publishedAt": "2024-06-19T12:09:56Z",
+            "content": "Copyright \u00a9 2001-2011 Madshrimps, All rights reserved.Graphic Design by Dennis Kestelle, Programming by Maarten Menten,\r\nOverall Site design by John Meys\r\nAll information and graphics contained in Ma\u2026 [+135 chars]"
+        }
+    ]
+}
