@@ -2,7 +2,8 @@ import requests
 import os
 from dotenv import load_dotenv
 import json
-from bs4 import BeautifulSoup
+from newspaper import Article
+
 
 # Load environment variables from .env file
 load_dotenv()
@@ -17,33 +18,37 @@ NEWS_API_REQ_HEADERS = {
 
 COMPANIES_NAMES = [
     # "+NVIDIA",
-    "+Vanguard",
+    # "+Vanguard",
     "+Blackrock"
 ]
 
 
-def fetch_article_content(url):
-    def create_directory(directory):
-        if not os.path.exists(directory):
-            os.makedirs(directory)
+def create_directory(directory):
+    if not os.path.exists(directory):
+        os.makedirs(directory)
 
-    def sanitize_filename(filename):
-        # Sanitize the filename to remove invalid characters
-        return "".join(c for c in filename if c.isalnum() or c in (' ', '_')).rstrip()
 
+def sanitize_filename(filename):
+    # Sanitize the filename to remove invalid characters
+    return "".join(c for c in filename if c.isalnum() or c in (' ', '_')).rstrip()
+
+
+def fetch_article_content(url, company_name=''):
     try:
-        # Make a request to each article URL
-        article_response = requests.get(url)
-        soup = BeautifulSoup(article_response.content, 'html.parser')
-        article_content = soup.find('article')
+        # Download and parse the article
+        article = Article(url)
+        article.download()
+        article.parse()
 
-        if article_content:
-            content_text = article_content.get_text()
+        # Extract the article content
+        content_text = article.text
+
+        if content_text:
             # Create the directory if it doesn't exist
-            create_directory('articles_fetched')
+            create_directory(f'articles_fetched/{company_name}')
             # Create a sanitized filename
             filename = sanitize_filename(url) + '.txt'
-            filepath = os.path.join('articles_fetched', filename)
+            filepath = os.path.join(f'articles_fetched/{company_name}', filename)
             # Write the content to a new text file
             with open(filepath, 'w', encoding='utf-8') as file:
                 file.write(content_text)
@@ -51,7 +56,7 @@ def fetch_article_content(url):
         else:
             print(f"No content found for {url}")
 
-    except requests.exceptions.RequestException as e:
+    except Exception as e:
         print(f"Error fetching {url}: {e}")
         return None
 
@@ -65,7 +70,7 @@ def get_company_request_params(company_name):
     }
 
 
-def log_api_response_result(response):
+def log_api_response_result(response, company_name):
     if not response.ok:
         error_filename = 'response_logs_articles/' + company_name[1:] + '-error-log.json'
         with open(error_filename, 'w') as f:
@@ -77,7 +82,7 @@ def log_api_response_result(response):
 
         response_json = response.json()
         for article in response_json['articles']:
-            fetch_article_content(article['url'])
+            fetch_article_content(article['url'], company_name)
 
 
 def make_api_call_for_each_company(company_name):
@@ -87,11 +92,9 @@ def make_api_call_for_each_company(company_name):
                             headers=NEWS_API_REQ_HEADERS,
                             params=req_params)
 
-    log_api_response_result(response)
+    log_api_response_result(response, company_name)
 
 
 for company_name in COMPANIES_NAMES:
     make_api_call_for_each_company(company_name)
-
-
 
