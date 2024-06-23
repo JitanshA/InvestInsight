@@ -1,0 +1,156 @@
+
+
+
+
+
+What is a Money Market Fund? How to Invest, Pros, Cons, & More
+
+ Last updated: May 28, 2024 
+ G.E. Miller
+ No Comments
+
+
+
+
+I recently highlighted a few different alternatives to stocks and low-interest cash savings. One of the options I mentioned was a money market fund (also known as a money market mutual fund). Money market funds are often confused for similar-sounding money market accounts – a type of savings account that banks offer, but they are actually quite different. And, if you haven’t researched what they are, you probably know little about them or how to invest in them. That would be unfortunate, given that they are commonly offering 5%+ APR interest rates at the moment, and come with high liquidity, and low risk. In this article, I wanted to cover the basics on money market funds, what they are, how to invest in them, pros, cons, and much more.
+
+
+
+
+ 
+Article Table of Contents: 
+hide
+
+
+
+ 
+1.
+What is a Money Market Mutual Fund?
+
+ 
+2.
+Money Market Fund Pros
+
+ 
+3.
+Money Market Fund Cons
+
+ 
+4.
+Where to Invest in Money Market Funds
+
+ 
+5.
+How to Buy a Money Market Fund
+
+ 
+6.
+Popular Money Market Fund Options
+
+ 
+7.
+A Note on “Prime Rate” Money Market Funds Risk
+
+ 
+8.
+How to Sell a Money Market Fund
+
+ 
+9.
+Alternatives to Money Market Funds
+
+ 
+10.
+Money Market Funds Vs Money Market Accounts
+
+ 
+11.
+Bottom Line: Why Invest in a Money Market Fund?
+
+
+
+What is a Money Market Mutual Fund?
+A money market mutual fund is a type of mutual fund that invests in liquid, short-term instruments such as cash, CDs, U.S. Treasuries, government repurchase agreements, high-quality debt, and other cash-like equivalents. Their investment goal is to offer high liquidity, preserve capital (meet or beat inflation rates), and provide low risk to investors.
+
+Money Market Fund Pros
+
+High-liquidity – there are no long-term commitments as there is with CDs, for example. And, you can typically access funds after selling a money market mutual fund within a few business days.
+Very low risk
+Returns that are commonly greater than bank deposit accounts
+Offered within brokerage accounts and easy to move funds in and out
+
+Money Market Fund Cons
+
+Rare to see growth of capital (only when interest rates are outpacing inflation)
+No FDIC/NCUA insurance coverage
+Rates of return vary with interest rate changes and can decline when rates go down
+
+Where to Invest in Money Market Funds
+While I didn’t get into the specifics in my prior conversation, the primary way to invest in money market mutual funds is through an online broker. Fidelity, Schwab, and Vanguard are 3 reputable brokerage options with limited fees that offer standard brokerage accounts and individual retirement accounts – both of which can invest in money market funds and other investments.
+How to Buy a Money Market Fund
+Generally, these are the steps you need to take to buy shares of a money market fund:
+
+Create a brokerage account if you do not have one.
+Link a bank account that you want to transfer money from and transfer the funds to your brokerage account.
+Within the account, choose to buy/trade a mutual fund and enter the ticker symbol and the dollar amount that you’d like to buy.
+
+Below is a screenshot of how to buy the VMFXX money market fund in a Vanguard account:
+
+
+
+
+
+Popular Money Market Fund Options
+Here are a few of the most popular government and treasury focused money market mutual fund options offered by Fidelity, Schwab, and Vanguard, along with their ticker symbols and minimum investment amounts:
+
+Fidelity: FDRXX, FZFXX, SPAXX – all have no minimum investment amount, fees vary
+Schwab: SNOXX, SNVXX, SNSXX – all have no minimum investment amount, fees vary
+Vanguard: VMFXX, VMRXX, VUSXX – all have a $3,000 minimum investment amount, but VMFXX is $0 when used as the Vanguard account settlement fund (where money sits in an account when not invested elsewhere), fees vary
+
+Yields, minimum investment amounts, investment portfolios, and expense ratios vary – always review and compare those things prior to purchase.
+A Note on “Prime Rate” Money Market Funds Risk
+The money market funds listed above are all primarily focused on U.S. Treasuries and other short-term government debt. Prime rate money market funds, on the other hand, are commonly focused on corporate debt as well, which comes with a higher level of risk. Before investing in a money market mutual fund, always review what the fund is invested in at the moment.
+How to Sell a Money Market Fund
+To sell shares of a money market fund:
+
+
+
+
+Within your brokerage account, choose to sell the mutual fund you have shares in and enter the ticker symbol and the dollar amount that you’d like to sell to complete the order.
+After the order is completed, you’ll typically receive the cash balance for your sold amount within your settlement fund or the bank that you chose to transfer funds to within a few business days.
+Below is a screenshot of how to sell the VUSXX money market fund in a Vanguard account:
+*note: the amount you hold within the fund will be show next to “your current position”
+Alternatives to Money Market Funds
+Some popular alternatives to money market mutual funds are:
+
+Money market accounts: offered by banks and credit unions, usually have slightly lower rates than money market funds, but are FDIC/NCUA insured. They also are less liquid.
+High-yield savings accounts: offered by banks and credit unions, usually have slightly lower rates than money market funds and maximum amounts for higher yields, but are FDIC/NCUA insured.
+I Bonds: offered by the U.S. Treasury, rates vary with inflation, come with early withdrawal interest penalties, and must be held for at least 1 year. Backed by the U.S. Government.
+Deposit CDs: guaranteed rates and term-length, typically lower liquidity, FDIC/NCUA insured.
+Brokered CDs: guaranteed rates and term-length, high liquidity but sold at market rates, FDIC/NCUA insured.
+
+Money Market Funds Vs Money Market Accounts
+The names may be similar, but money market accounts (MMAs) are a type of savings deposit account that are offered by banks and credit unions, with interest paid directly from the financial institution to the depositor. They are FDIC/NCUA insured up to $250,000 per individual per account type. It’s rare for a money market account to have interest rates that are as high as a money market mutual fund. Some money market accounts have debit card and other bank-like features.
+Money market mutual funds are offered at investment brokerages and they invest in securities, similar to other mutual funds. The money that is earned from their portfolio of investments is distributed to investors in the form of dividends, typically paid monthly. Money market funds have no bank-like features and are not FDIC/NCUA insured.
+Bottom Line: Why Invest in a Money Market Fund?
+Why invest in a money market fund? In summary, I think it comes down to the fact that they are a highly liquid (no set term-length), very low risk, easy to access investment option that can held with brokerage accounts. At the moment, with government interest rates outpacing inflation in the U.S., they are currently providing a respectable yield, making them a good low-risk, short-term holding.
+If history is any lesson, money market funds likely won’t outpace stock and bond investments over the long-term – so they aren’t the best long-term investment and should not be relied upon exclusively.
+As with any investment, it’s important to understand the risks involved before investing – so do your research and speak with a professional, if you are uncertain.
+ 
+
+
+
+
+
+
+
+Leave a Reply Cancel Reply
+
+
+
+ Notify me of followup comments via e-mail. You can also subscribe without commenting. 
+
+ 
+
+
+
